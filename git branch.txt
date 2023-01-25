@@ -2,5 +2,9 @@ Main branch
 
 Button payment.txt
 
+<<<<<<< HEAD
 Add metrika
 
+=======
+Google Analytics
+>>>>>>> feature/analytics
