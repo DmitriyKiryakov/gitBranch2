@@ -4,3 +4,4 @@ Button payment.txt
 Add metrika
 Google Analytics
 
+reset demo
